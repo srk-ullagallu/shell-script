@@ -10,4 +10,4 @@ git add .
 git commit -m "$MESSAGE"
 git push origin "$BRANCH_NAME"
 
-print_message Successfully pushing the changes
+print_message "Successfully pushing the changes"
